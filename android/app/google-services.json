@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851648364502",
+    "project_id": "bmc-act3",
+    "storage_bucket": "bmc-act3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851648364502:android:2e49b917503da6770a2e77",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ0jeBnLwN-peBQJPiDm7qw_Zuq4oUjzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

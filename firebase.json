@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"bmc-act3","appId":"1:851648364502:android:2e49b917503da6770a2e77","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"bmc-act3","configurations":{"android":"1:851648364502:android:2e49b917503da6770a2e77","web":"1:851648364502:web:9f93bf4dbba62c2f0a2e77"}}}}}}
